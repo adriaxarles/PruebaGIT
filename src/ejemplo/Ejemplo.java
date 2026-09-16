@@ -6,4 +6,5 @@ public class Ejemplo {
 	}
 	private int a;
 	private String b;
+	private String c;
 }
